@@ -15,11 +15,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Program:
 ```
-/*
-'''Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by: MOHAMED FAROOK S
-RegisterNumber: 23014058
-'''
+Program to solve a matrix using Gaussian elimination without partial pivoting.
+Developed by: Dhandeeswaran selvakumar
+RegisterNumber: 23006838
 import numpy as np
 n=int(input())
 arr=np.zeros((n,n+1))
@@ -40,11 +38,11 @@ for i in range(n-2,-1,-1):
     res[i]=res[i]/arr[i][i]
 for i in range(n):
     print("X%d = %0.2f" %(i,res[i]),end=" ") 
-*/
 ```
 
 ## Output:
-![image](https://github.com/MOHAMEDFAROOK2005/Gaussian/assets/150319482/6822e0c4-b755-4d0a-896c-0a8252345cf4)
+![Uploading Screenshot 2023-12-28 221321.png…]()
+
 
 
 
