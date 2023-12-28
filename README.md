@@ -41,7 +41,8 @@ for i in range(n):
 ```
 
 ## Output:
-![Uploading Screenshot 2023-12-28 221321.png…]()
+![Screenshot 2023-12-28 221321](https://github.com/dhandeeswaran2005/Gaussian/assets/147139188/468f8fb9-a81c-4e36-9128-3dab8fcdbd60)
+
 
 
 
