@@ -16,8 +16,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Program:
 ```
 Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by: Dhandeeswaran selvakumar
-RegisterNumber: 23006838
+Developed by: Rajkumar G
+RegisterNumber: 23003498
 import numpy as np
 n=int(input())
 arr=np.zeros((n,n+1))
@@ -41,8 +41,7 @@ for i in range(n):
 ```
 
 ## Output:
-![Screenshot 2023-12-28 221321](https://github.com/dhandeeswaran2005/Gaussian/assets/147139188/468f8fb9-a81c-4e36-9128-3dab8fcdbd60)
-
+![Screenshot 2023-12-29 113443](https://github.com/Rajkumar28072005/Gaussian/assets/144980101/c0ad073a-8059-45ac-b299-a43dcc94fef7)
 
 
 
